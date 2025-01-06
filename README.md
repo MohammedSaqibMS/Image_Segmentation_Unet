@@ -84,7 +84,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 
 ## 🌐 Connect
 
-- Author: [Your Name](https://github.com/your-username)  
+- Author: [Muhammad Saqib](https://github.com/MohammedSaqibMS)  
 - Questions or suggestions? Feel free to open an issue!  
 
 Happy coding! 🎉
