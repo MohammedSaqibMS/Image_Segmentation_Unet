@@ -37,8 +37,8 @@ Welcome to the **Image Segmentation with U-Net** project! This repository demons
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/image-segmentation-unet.git
-   cd image-segmentation-unet
+   git clone https://github.com/MohammedSaqibMS/Image_Segmentation_Unet.git
+   cd Image_Segmentation_Unet
    ```
 
 2. Install required dependencies:  
