@@ -58,7 +58,7 @@ Welcome to the **Image Segmentation with U-Net** project! This repository demons
 
 - **Frameworks**: TensorFlow, Keras  
 - **Libraries**: NumPy, Pandas, Matplotlib, ImageIO  
-- **Tools**: Jupyter Notebook
+- **Tools**: JupyterLab
 
 ---
 
